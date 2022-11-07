@@ -1,0 +1,19 @@
+.productItem{
+    border: 1px solid black;
+    padding: 0.75rem 0.75rem;
+    border-radius: 0.5rem;
+}
+.productItem img{
+    width: 100%;
+}
+.productItem button{
+    background-color: black;
+    color: white;
+    padding: 0.25rem 0.25rem;
+    transition: all 0.4 ease;
+}
+.productItem button:hover{
+    display: block;
+    width: 100%;
+    text-align: center;
+}

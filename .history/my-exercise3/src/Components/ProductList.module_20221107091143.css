@@ -1,0 +1,16 @@
+.container{
+    margin: 0 auto;
+    max-width: 1280px;
+}
+.productList__row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.productList__col{
+    width: 22.5%;
+    padding: 1rem 1rem;
+}
+.productList__col:hover {
+    box-shadow: 0 0 20px black;
+}
