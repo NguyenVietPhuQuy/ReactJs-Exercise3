@@ -1,0 +1,10 @@
+.container{
+    margin: 0 auto;
+    max-width: 1280px;
+}
+.productList__row{
+    display: flex;
+    flex-direction: row;
+}
+.productList__col{
+}

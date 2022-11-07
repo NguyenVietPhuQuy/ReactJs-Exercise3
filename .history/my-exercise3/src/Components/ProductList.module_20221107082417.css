@@ -1,0 +1,12 @@
+.container{
+    margin: 0 auto;
+    max-width: 1280px;
+}
+.productList__row{
+    display: flex;
+    flex-direction: row;
+}
+.productList__col{
+    width: calc(100%/3);
+    padding: 1rem 1rem;
+}
